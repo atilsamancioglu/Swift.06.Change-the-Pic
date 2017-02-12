@@ -12,6 +12,8 @@
 		FC7053D31E3BBF76004D15BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC7053D11E3BBF76004D15BD /* Main.storyboard */; };
 		FC7053D51E3BBF76004D15BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC7053D41E3BBF76004D15BD /* Assets.xcassets */; };
 		FC7053D81E3BBF76004D15BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC7053D61E3BBF76004D15BD /* LaunchScreen.storyboard */; };
+		FC7053E11E3BBFD2004D15BD /* james.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC7053DF1E3BBFD2004D15BD /* james.jpg */; };
+		FC7053E21E3BBFD2004D15BD /* kirk.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC7053E01E3BBFD2004D15BD /* kirk.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		FC7053D41E3BBF76004D15BD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FC7053D71E3BBF76004D15BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FC7053D91E3BBF76004D15BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC7053DF1E3BBFD2004D15BD /* james.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = james.jpg; sourceTree = "<group>"; };
+		FC7053E01E3BBFD2004D15BD /* kirk.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kirk.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		FC7053CC1E3BBF76004D15BD /* Working with Images */ = {
 			isa = PBXGroup;
 			children = (
+				FC7053DF1E3BBFD2004D15BD /* james.jpg */,
+				FC7053E01E3BBFD2004D15BD /* kirk.jpg */,
 				FC7053CD1E3BBF76004D15BD /* AppDelegate.swift */,
 				FC7053CF1E3BBF76004D15BD /* ViewController.swift */,
 				FC7053D11E3BBF76004D15BD /* Main.storyboard */,
@@ -124,6 +130,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FC7053E11E3BBFD2004D15BD /* james.jpg in Resources */,
+				FC7053E21E3BBFD2004D15BD /* kirk.jpg in Resources */,
 				FC7053D81E3BBF76004D15BD /* LaunchScreen.storyboard in Resources */,
 				FC7053D51E3BBF76004D15BD /* Assets.xcassets in Resources */,
 				FC7053D31E3BBF76004D15BD /* Main.storyboard in Resources */,
